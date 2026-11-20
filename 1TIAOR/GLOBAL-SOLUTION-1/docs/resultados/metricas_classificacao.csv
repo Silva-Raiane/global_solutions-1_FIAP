@@ -1,0 +1,5 @@
+modelo,acuracia,f1_macro,recall_alto
+Linha de base (persistência),0.845,0.81,0.822
+Regressão Logística,0.716,0.685,0.844
+Árvore de Decisão,0.787,0.741,0.822
+Random Forest,0.729,0.685,0.911

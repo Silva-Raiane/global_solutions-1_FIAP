@@ -1,0 +1,12 @@
+================================================================
+ [ATENÇÃO] SENTINELA DENGUE - Belo Horizonte - MG
+================================================================
+ Dados até a SE 202553  ->  previsão para a SE 202602
+ Risco previsto: MEDIO  (prob. de risco alto: 4%)
+ Casos estimados na semana-alvo: 466
+ Ações recomendadas:
+   - Intensificar visitas casa a casa nos bairros com mais notificações.
+   - Avisar UBS e UPAs para revisar estoque de soro e testes rápidos.
+   - Enviar alerta à população por SMS/WhatsApp/redes da prefeitura.
+ * Apoio à decisão: não substitui a avaliação da vigilância em saúde.
+================================================================
