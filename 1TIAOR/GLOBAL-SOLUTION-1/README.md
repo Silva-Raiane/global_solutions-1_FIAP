@@ -18,11 +18,6 @@
 - <a href="https://www.linkedin.com/in/raiane-sirlene-silva/">Raiane Sirlene da Silva (RM575984)</a>
 - <a href="LINK-DO-PERFIL">Rodrigo Textor de Textor (RM574243)</a>
 - <a href="LINK-DO-PERFIL">Pedro Victor Pires (RM575181)</a>
-
-## 👩‍🏫 Professores:
-
-### Tutor(a)
-- <a href="LINK-DO-PERFIL">NOME DO TUTOR</a>
   
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi Chiovato</a>
@@ -95,7 +90,6 @@ O Sentinela Dengue é uma POC em Python que:
 
 ### 🔗 Links do Projeto
 
-* **[Vídeo de demonstração (YouTube, não listado)](LINK-DO-VIDEO)** - Demonstração da solução em até 5 minutos.
 * **[API InfoDengue](https://info.dengue.mat.br/services/api)** - Fonte dos dados reais.
 
 ### 🧠 Decisões Técnicas
@@ -127,7 +121,7 @@ O Sentinela Dengue é uma POC em Python que:
 
 ```bash
 # 1) Clonar o repositório e entrar na pasta do projeto
-git clone <URL-DO-REPOSITORIO>
+git clone  https://github.com/Silva-Raiane/global_solutions-1_FIAP.git
 cd FIAP-PORTFOLIO-AI/1TIAOR/GLOBAL-SOLUTION-1
 
 # 2) (Opcional) criar ambiente virtual
